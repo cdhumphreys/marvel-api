@@ -1,0 +1,13 @@
+.characterThumbnail {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+
+li {
+  list-style: none;
+}
+
+li strong {
+  text-decoration: underline;
+}
